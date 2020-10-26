@@ -1,4 +1,4 @@
-package com.cg.censusanalysis;
+package com.cg.censusanalysis.statecensusdata;
 
 import com.opencsv.bean.CsvBindByName;
 import com.opencsv.bean.CsvBindByPosition;

@@ -1,14 +1,10 @@
 package com.cg.censusanalysis;
 
+import com.cg.censusanalysis.statecensusdata.StateCensusAnalyser;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.io.IOException;
-import java.nio.file.NoSuchFileException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-
-import static org.junit.Assert.*;
 
 public class StateCensusAnalyserTest {
     String CORRECT_FILE_PATH="C:\\Users\\Avinash\\IdeaProjects\\CensusAnalyser\\StateCensusData.csv";

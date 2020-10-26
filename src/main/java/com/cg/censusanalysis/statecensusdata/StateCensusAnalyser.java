@@ -1,5 +1,6 @@
-package com.cg.censusanalysis;
+package com.cg.censusanalysis.statecensusdata;
 
+import com.cg.censusanalysis.*;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 import org.apache.commons.io.FilenameUtils;
